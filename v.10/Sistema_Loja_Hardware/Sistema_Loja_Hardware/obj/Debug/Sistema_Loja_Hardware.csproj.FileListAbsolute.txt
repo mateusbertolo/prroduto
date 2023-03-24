@@ -1,0 +1,202 @@
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+D:\C#\PI\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\Projeto_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.2\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+D:\VisualStudio\Visual_Projetos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\breno.fsantos2\source\repos\Sistema_Loja_Hardware\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\versão final\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruanb\OneDrive\Área de Trabalho\C#\PI versões\v.6\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\v.8\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe.config
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\Sistema_Loja_Hardware.pdb
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.dll
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\bin\Debug\MySql.Data.xml
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.AssemblyReference.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cargo.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_categoria.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_cliente.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_fornecedor.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_funcionario.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_marca.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_produto.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.form_setor.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.menu_principal.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.Properties.Resources.resources
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.GenerateResource.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CoreCompileInputs.cache
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.csproj.CopyComplete
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.exe
+C:\Users\ruan.bsbarbosa\source\repos\v.9\Sistema_Loja_Hardware\Sistema_Loja_Hardware\obj\Debug\Sistema_Loja_Hardware.pdb
